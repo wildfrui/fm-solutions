@@ -47,3 +47,4 @@ Here is a list of completed challenges and their corresponding links:
 Feel free to reach out for collaboration or feedback:  
 - **Email**: arebrikdev@gmail.com
 - **GitHub**: [wildfrui](https://github.com/wildfrui)  
+- **Telegram**: [wildfruit](https://t.me/wildfruit)

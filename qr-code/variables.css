@@ -1,0 +1,43 @@
+:root {
+  /* Colors */
+  --background-color: hsl(0, 0%, 100%);
+  --primary-color: hsl(218, 44%, 22%) ;
+  --secondary-color: hsl(216, 15%, 48%);
+  --tertiary-color: hsl(212, 45%, 89%);
+
+  /* Typography */
+  --font-family: 'Outfit', sans-serif;
+
+  /* Heading Styles */
+  --font-size-heading: 22px;
+  --line-height-heading: 1.2;
+  --letter-spacing-heading: 0px;
+
+  /* Weights */
+  --font-weight-bold: 700;
+  --font-weight-regular: 400;
+
+  /* Paragraph Styles */
+  --font-size-paragraph: 15px;
+  --line-height-paragraph: 1.4;
+  --letter-spacing-paragraph: 0.2px;
+  --text-shadow-paragraph: 0 4px 4px rgba(0, 0, 0, 0.25);
+
+  /* Border Radius */
+  --border-radius: 20px;
+
+  /* Spacing */
+  --spacing-small: 16px;
+  --spacing-medium: 24px;
+  --spacing-large: 32px;
+
+  /* Card */
+  --width-card: 288px;
+  --height-card: 493px;
+  --border-radius-card: 10px;
+
+  /* Image */
+  --width-image: 100%;
+  --height-image: 100%;
+  --border-radius-image: 10px;
+}
