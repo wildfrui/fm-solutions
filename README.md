@@ -33,14 +33,14 @@ Here is a list of completed challenges and their corresponding links:
 
 | Challenge Name        | Live Preview                     | Code Folder               |
 |-----------------------|----------------------------------|--------------------------|
-| Example Challenge     | [View Live](https://example.com) | [Folder](./example-folder) |
+| None    | [View Live](https://example.com) | [Folder](./example-folder) |
 
 *This table will be updated as new challenges are completed.*
 
 ## 🔗 Links
 
 - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/wildfrui)  
-- [GitHub Profile](https://github.com/your-username)
+- [GitHub Profile](https://github.com/wildfrui)
 
 ## 📧 Contact
 
