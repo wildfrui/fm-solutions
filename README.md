@@ -33,7 +33,7 @@ Here is a list of completed challenges and their corresponding links:
 
 | Challenge Name        | Live Preview                     | Code Folder               |
 |-----------------------|----------------------------------|--------------------------|
-| None    | [View Live](https://example.com) | [Folder](./example-folder) |
+| QR code component    | [View Live](https://fm-solution-qr-code.vercel.app/) | [Folder](./qr-code) |
 
 *This table will be updated as new challenges are completed.*
 
