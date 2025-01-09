@@ -2,6 +2,7 @@
 
 This repository contains my solutions to challenges from [Frontend Mentor](https://www.frontendmentor.io/).  
 Each solution is implemented with a focus on **responsive design**, **clean code**, and **best practices** for modern web development.
+I work on these solutions for additional practice and would greatly appreciate any feedback. I'm always open to discussing and improving any approach.
 
 ---
 
@@ -10,17 +11,6 @@ Each solution is implemented with a focus on **responsive design**, **clean code
 Each challenge is organized in its own folder.
 
 ---
-
-## 🛠️ Technologies Used
-
-### Core Technologies:
-- **HTML5**: Semantic and accessible markup.
-- **CSS3**: Styling with a focus on responsive design.
-- **JavaScript (ES6+)**: For interactive functionality.
-
-### Optional/Advanced:
-- **CSS Preprocessors**: Sass/SCSS for cleaner, more modular styles.
-- **Frontend Frameworks**: React and Vue
 
 ## 🚀 Live Previews
 
