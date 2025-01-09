@@ -21,6 +21,7 @@ body {
     border-radius: var(--border-radius);
     background-color: var(--background-color);
     max-width: 100%;
+    box-shadow: var(--box-shadow);
 }
 
 .card__content {
