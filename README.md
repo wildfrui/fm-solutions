@@ -21,9 +21,9 @@ Find links to live previews in the README file of each challenge folder.
 
 Here is a list of completed challenges and their corresponding links:
 
-| Challenge Name        | Live Preview                     | Code Folder               |
-|-----------------------|----------------------------------|--------------------------|
-| QR code component    | [View Live](https://fm-solution-qr-code.vercel.app/) | [Folder](./qr-code) |
+| Challenge Name        | Live Preview                     | Code Folder               | Comparison
+|-----------------------|----------------------------------|--------------------------|--------------------------|
+| QR code component    | [View Live](https://fm-solution-qr-code.vercel.app/) | [Folder](./qr-code) | [Comparison](https://www.frontendmentor.io/solutions/qr-code-component-egN5TA4f9L)
 
 *This table will be updated as new challenges are completed.*
 
