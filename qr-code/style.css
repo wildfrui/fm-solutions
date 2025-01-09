@@ -42,8 +42,9 @@ body {
 }
 
 .card__info {
+    margin-inline: auto;
     margin-top: var(--spacing-medium);
-    max-width: var(--width-card);
+    max-width: var(--max-width-info);
     text-align: center;
 }
 

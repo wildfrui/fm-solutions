@@ -35,6 +35,7 @@
   --width-card: 288px;
   --height-card: 493px;
   --border-radius-card: 10px;
+  --max-width-info: 256px;
 
   /* Image */
   --width-image: 100%;
