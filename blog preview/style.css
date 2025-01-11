@@ -20,7 +20,8 @@ body {
 
 .card {
     width: 100%;
-    max-width: 386px; 
+    max-width: 384px;
+    max-height: 522px;
     border: 1px solid #111111;
     border-radius: var(--system-borderRadius-large);
     color: var(--system-color-darkGray);
