@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+
+  <meta name="description" content="Blog preview card component challenge from Frontend Mentor">
+  <meta name="author" content="Artyom Rebrik">
+
+  <title>Frontend Mentor | Blog preview card</title>
+
+  <link rel="preload" as="font" href="./assets/fonts/Figtree-VariableFont_wght.ttf" type="font/ttf" crossorigin="anonymous">
+
+  <link rel="preload" as="font" href="./assets/fonts/static/Figtree-ExtraBold.ttf" type="font/ttf" crossorigin="anonymous">
+  <link rel="preload" as="font" href="./assets/fonts/static/Figtree-SemiBold.ttf" type="font/ttf" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="./reset.css">
+  <link rel="stylesheet" href="./fonts.css">
+  <link rel="stylesheet" href="./variables.css">
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <main class="container">
+    <article class="card">
+      <div class="card__content">
+        <figure class="card__image">
+          <img src="./assets/images/illustration-article.svg" alt="Article illustration">
+        </figure>
+
+        <section id="card-info" aria-labelledby="card_info" class="card__info">
+          <div class="card__tag">
+            <p>
+              Learning
+            </p>
+          </div>
+
+          <p class="card__date">
+            Published on <time pubdate datetime="2023-12-21">21 Dec 2023</time>
+          </p>
+
+          <h3 class="card__heading" id="card_info">HTML & CSS foundations</h3>
+
+          <p class="card__description">These languages are the backbone of every website, defining structure, content, and presentation.</p>
+        </section>
+
+        <footer class="card__footer author">
+          <figure class="author__image">
+            <img src="./assets/images/image-avatar.webp" alt="Author avatar">
+          </figure>
+          <address class="author__name">Greg Hooper</address>
+        </footer>
+      </div>
+    </article>
+  </main>
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+:root {
+    --system-color-paleYellow: hsl(47, 88%, 63%);
+    --system-color-pureWhite: hsl(0, 0%, 100%);
+    --system-color-darkGray: hsl(0, 0%, 7%);
+    --system-color-lightGray: hsl(0, 0%, 42%);
+
+    --system-borderRadius-small: 4px;
+    --system-borderRadius-medium: 10px;
+    --system-borderRadius-large: 20px;
+    --system-borderRadius-full: 100%;
+
+    --system-spacing-small: 4px;
+    --system-spacing-medium: 8px;
+    --system-spacing-large: 12px;
+    --system-spacing-xlarge: 24px;
+
+    --system-fontFamily: 'Figtree', sans-serif;
+
+    --system-fontWeight-regular: 400;
+    --system-fontWeight-extraBold: 800;
+
+    --system-fontSize-xsmall: 0.75rem;
+    --system-fontSize-small: 0.875rem;
+    --system-fontSize-medium: 1rem;
+    --system-fontSize-large: 1.5rem;
+
+    --system-lineHeight: 150%;
+
+    --system-font-small: normal normal var(--system-fontWeight-regular) var(--system-fontSize-small)/var(--system-lineHeight) var(--system-fontFamily);
+    --system-font-smallBold: normal normal var(--system-fontWeight-extraBold) var(--system-fontSize-small)/var(--system-lineHeight) var(--system-fontFamily);
+    --system-font-medium: normal normal var(--system-fontWeight-regular) var(--system-fontSize-medium)/var(--system-lineHeight) var(--system-fontFamily);
+    --system-font-largeBold: normal normal var(--system-fontWeight-extraBold) var(--system-fontSize-large)/var(--system-lineHeight) var(--system-fontFamily);
+}
