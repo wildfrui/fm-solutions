@@ -2,7 +2,7 @@
 
 This repository contains my solutions to challenges from [Frontend Mentor](https://www.frontendmentor.io/).  
 Each solution is implemented with a focus on **responsive design**, **clean code**, and **best practices** for modern web development.
-I work on these solutions for additional practice and would greatly appreciate any feedback. I'm always open to discussing and improving any approach.
+I work on these solutions just for additional practice and would greatly appreciate any feedback. I'm always open to discussing and improving any approach.
 
 ---
 
