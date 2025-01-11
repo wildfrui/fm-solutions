@@ -24,6 +24,7 @@ Here is a list of completed challenges and their corresponding links:
 | Challenge Name        | Live Preview                     | Code Folder               | Comparison
 |-----------------------|----------------------------------|--------------------------|--------------------------|
 | QR code component    | [View Live](https://fm-solution-qr-code.vercel.app/) | [Folder](./qr-code) | [Comparison](https://www.frontendmentor.io/solutions/qr-code-component-egN5TA4f9L)
+| Blog preview component    | [View Live](https://fm-solutions-blog-preview.vercel.app/) | [Folder](./blog-preview) | [Comparison](https://www.frontendmentor.io/solutions/blog-preview-card-UyAbkEaI98)
 
 *This table will be updated as new challenges are completed.*
 
