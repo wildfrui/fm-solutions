@@ -17,6 +17,7 @@
     --system-fontFamily: 'Figtree', sans-serif;
 
     --system-fontWeight-regular: 400;
+    --system-fontWeight-medium: 500;
     --system-fontWeight-extraBold: 800;
 
     --system-fontSize-xsmall: 0.75rem;
@@ -28,6 +29,6 @@
 
     --system-font-small: normal normal var(--system-fontWeight-regular) var(--system-fontSize-small)/var(--system-lineHeight) var(--system-fontFamily);
     --system-font-smallBold: normal normal var(--system-fontWeight-extraBold) var(--system-fontSize-small)/var(--system-lineHeight) var(--system-fontFamily);
-    --system-font-medium: normal normal var(--system-fontWeight-regular) var(--system-fontSize-medium)/var(--system-lineHeight) var(--system-fontFamily);
+    --system-font-medium: normal normal var(--system-fontWeight-medium) var(--system-fontSize-medium)/var(--system-lineHeight) var(--system-fontFamily);
     --system-font-largeBold: normal normal var(--system-fontWeight-extraBold) var(--system-fontSize-large)/var(--system-lineHeight) var(--system-fontFamily);
 }
