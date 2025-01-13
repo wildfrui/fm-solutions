@@ -1,0 +1,14 @@
+:root {
+    --system-color-limeGreen: hsl(75, 94%, 57%);
+    --system-color-pureWhite: hsl(0, 0%, 100%);
+    --system-color-lightGrey: hsl(0, 0%, 20%);
+    --system-color-darkGrey: hsl(0, 0%, 12%);
+    --system-color-almostBlack: hsl(0, 0%, 8%);
+
+    --system-font-size: 14px;
+    --system-font-family: Inter, sans-serif;
+
+    --system-font-weight-regular: 400;
+    --system-font-weight-semiBold: 600;
+    --system-font-weight-bold: 700;
+}
